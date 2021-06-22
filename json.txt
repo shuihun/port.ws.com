@@ -1,0 +1,6 @@
+http://192.168.128.128:9501/setChinazResultKeyword
+
+jsonData=[{"batchNum":"5835219526818_20190411","keyword":"多力旺菌种厂家","type":1,"sign":"17a33948c8d9b2c99d26d32277345c90","searchdate":"2019-04-11 18:55:20","page":[{"pageIndex":1,"pos":"5,8","fileUrl":"http://snap.chinaz.com/baidupc?keyword=%e5%a4%9a%e5%8a%9b%e6%97%ba%e8%8f%8c%e7%a7%8d%e5%8e%82%e5%ae%b6%26batchNum=5835219526818_20190411","topPosData":[{"domain":"dn152578.b2bvip.com","matchType":"companyName","pos":5,"url":""},{"domain":"www.1988.tv","matchType":"companyName","pos":8,"url":""}]},{"pageIndex":2,"pos":"1,2","fileUrl":"http://snap.chinaz.com/baidupc?keyword=%e5%a4%9a%e5%8a%9b%e6%97%ba%e8%8f%8c%e7%a7%8d%e5%8e%82%e5%ae%b6%26batchNum=5835219526818_20190411","topPosData":[{"domain":"dn152578.b2bvip.com","matchType":"companyName","pos":1,"url":""},{"domain":"xmzykt.booksir.com.cn","matchType":"companyName","pos":2,"url":""}]},{"pageIndex":3,"pos":"1,2","fileUrl":"http://snap.chinaz.com/baidupc?keyword=%e5%a4%9a%e5%8a%9b%e6%97%ba%e8%8f%8c%e7%a7%8d%e5%8e%82%e5%ae%b6%26batchNum=5835219526818_20190411","topPosData":[{"domain":"dn152578.b2bvip.com","matchType":"companyName","pos":1,"url":""},{"domain":"xmzykt.booksir.com.cn","matchType":"companyName","pos":2,"url":""}]}]}]
+
+
+http://port.ws.com/Report/setChinazResultKeyword

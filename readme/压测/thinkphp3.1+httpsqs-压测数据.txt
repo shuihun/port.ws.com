@@ -1,0 +1,25 @@
+命令行参数参考： -c 10 -n 100  -h Content-Type:application/x-www-form-urlencoded 
+ -p jsonData=%5B%7B%22batchNum%22%3A%225835219526818_20190411%22%2C%22keyword%22%3A%22%E5%A4%9A%E5%8A%9B%E6%97%BA%E8%8F%8C%E7%A7%8D%E5%8E%82%E5%AE%B6%22%2C%22type%22%3A1%2C%22sign%22%3A%2217a33948c8d9b2c99d26d32277345c90%22%2C%22searchdate%22%3A%222019-04-11%2018%3A55%3A20%22%2C%22page%22%3A%5B%7B%22pageIndex%22%3A1%2C%22pos%22%3A%225%2C8%22%2C%22fileUrl%22%3A%22http%3A%2F%2Fsnap.chinaz.com%2Fbaidupc%3Fkeyword%3D%25e5%25a4%259a%25e5%258a%259b%25e6%2597%25ba%25e8%258f%258c%25e7%25a7%258d%25e5%258e%2582%25e5%25ae%25b6%2526batchNum%3D5835219526818_20190411%22%2C%22topPosData%22%3A%5B%7B%22domain%22%3A%22dn152578.b2bvip.com%22%2C%22matchType%22%3A%22companyName%22%2C%22pos%22%3A5%2C%22url%22%3A%22%22%7D%2C%7B%22domain%22%3A%22www.1988.tv%22%2C%22matchType%22%3A%22companyName%22%2C%22pos%22%3A8%2C%22url%22%3A%22%22%7D%5D%7D%2C%7B%22pageIndex%22%3A2%2C%22pos%22%3A%221%2C2%22%2C%22fileUrl%22%3A%22http%3A%2F%2Fsnap.chinaz.com%2Fbaidupc%3Fkeyword%3D%25e5%25a4%259a%25e5%258a%259b%25e6%2597%25ba%25e8%258f%258c%25e7%25a7%258d%25e5%258e%2582%25e5%25ae%25b6%2526batchNum%3D5835219526818_20190411%22%2C%22topPosData%22%3A%5B%7B%22domain%22%3A%22dn152578.b2bvip.com%22%2C%22matchType%22%3A%22companyName%22%2C%22pos%22%3A1%2C%22url%22%3A%22%22%7D%2C%7B%22domain%22%3A%22xmzykt.booksir.com.cn%22%2C%22matchType%22%3A%22companyName%22%2C%22pos%22%3A2%2C%22url%22%3A%22%22%7D%5D%7D%2C%7B%22pageIndex%22%3A3%2C%22pos%22%3A%221%2C2%22%2C%22fileUrl%22%3A%22http%3A%2F%2Fsnap.chinaz.com%2Fbaidupc%3Fkeyword%3D%25e5%25a4%259a%25e5%258a%259b%25e6%2597%25ba%25e8%258f%258c%25e7%25a7%258d%25e5%258e%2582%25e5%25ae%25b6%2526batchNum%3D5835219526818_20190411%22%2C%22topPosData%22%3A%5B%7B%22domain%22%3A%22dn152578.b2bvip.com%22%2C%22matchType%22%3A%22companyName%22%2C%22pos%22%3A1%2C%22url%22%3A%22%22%7D%2C%7B%22domain%22%3A%22xmzykt.booksir.com.cn%22%2C%22matchType%22%3A%22companyName%22%2C%22pos%22%3A2%2C%22url%22%3A%22%22%7D%5D%7D%5D%7D%5D http://port-cz.ws.258.com/Report/setChinazResultKeyword
+
+
+Time Total:1.186068 sec
+Time Fastest:0.039002 sec
+Time Slowest:0.177010 sec
+
+Success Num:100
+Fail Num:0
+Response Size:6800 bytes
+Requests per second:84.312205 [#/sec]
+
+
+temporal distribution:[percent %]  [time min sec]~[time max sec] 
+10%  0.039002~0.097005  
+20%  0.098006~0.105006  
+30%  0.105006~0.108006  
+40%  0.108006~0.110006  
+50%  0.111006~0.116007  
+60%  0.117007~0.119007  
+70%  0.119007~0.122007  
+80%  0.123007~0.132008  
+90%  0.133008~0.144008  
+100%  0.145008~0.177010 
